@@ -11,4 +11,4 @@
 | [NexoToken 公开套餐接口](https://www.nexotoken.net/api/memberships/public-plans) | 购入价、周期额度、期限、并发 | 新购规则；历史周期应另查 |
 | [NexoToken 会员规则](https://www.nexotoken.net/?view=membership) | 分组独立、文本范围、续购与活动边界 | 实际订单及当前规则优先 |
 
-NexoToken 来源链接用于核查产品事实，没有逐仓库获客参数，不承诺独立点击归因。站内调用额度与现金美元已在正文区分。公开数据快照见 pricing-snapshot.json 与 plans-snapshot.json。
+NexoToken 来源链接保留原始地址，供核查产品事实；README 的产品入口使用本仓库独立获客参数。站内调用额度与现金美元已在正文区分。公开数据快照见 pricing-snapshot.json 与 plans-snapshot.json。
