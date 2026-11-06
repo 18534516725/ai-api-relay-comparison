@@ -12,6 +12,7 @@
 - 已有工具但接不通：看协议验收表，以及[中文配置教程](https://github.com/18534516725/llm-api-setup-guides)。
 - 想比较账单：[离线费用计算器](https://github.com/18534516725/llm-api-cost-calculator)。
 - 想评估周期套餐：[API 会员选型指南](https://github.com/18534516725/ai-api-membership-guide)。
+- 使用的型号将退役：[模型下线后的迁移清单与验收表](MODEL-RETIREMENT-MIGRATION.md)。
 - 想复查比较口径：[方法与证据](METHODOLOGY.md)、[来源目录](SOURCES.md)。
 
 ## 先比较解决的问题，而不是先排第一名
