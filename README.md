@@ -122,6 +122,10 @@ NexoToken 当前新版会员采用周期总额度，不设每日或每周额度�
 
 [切换多模型 API 接入时，怎么留下可回滚的记录](MIGRATION-ROLLBACK-RECORD.md)：记录配置基线、任务验证、灰度切换和回退条件。
 
+## 客户端兼容性矩阵
+
+[Claude Code / Codex 兼容性矩阵](CLIENT-COMPATIBILITY-MATRIX.md)：把账号、客户端、接口、模型与任务分开记录，并为每项结论保留证据。
+
 ## 可复查的客户端任务验收
 
 [客户端任务验收清单](CLIENT-ACCEPTANCE-CHECKLIST.md)：包含最小测试夹具、工具调用、流式收尾、断线恢复及费用记录。
