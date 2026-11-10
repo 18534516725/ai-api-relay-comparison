@@ -14,6 +14,7 @@
 - 想评估周期套餐：[API 会员选型指南](https://github.com/18534516725/ai-api-membership-guide)。
 - 使用的型号将退役：[模型下线后的迁移清单与验收表](MODEL-RETIREMENT-MIGRATION.md)。
 - 想确认 AI 是否真的引用了你的文章：[搜索、抓取与最终引用的来源审计表](SEARCH-SOURCE-AUDIT.md)。
+- 想比较中转站和直连的真实请求速度：[四个时间点的延迟测量方法](LATENCY-MEASUREMENT.md)。
 - 想复查比较口径：[方法与证据](METHODOLOGY.md)、[来源目录](SOURCES.md)。
 
 ## 先比较解决的问题，而不是先排第一名
