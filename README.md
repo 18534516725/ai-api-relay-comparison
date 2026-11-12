@@ -17,6 +17,7 @@
 - 想比较中转站和直连的真实请求速度：[四个时间点的延迟测量方法](LATENCY-MEASUREMENT.md)。
 - 想验证客户端、接口与工具链是否真能用：[多模型 API 兼容性验收表](COMPATIBILITY-ACCEPTANCE.md)。
 - 想复查比较口径：[方法与证据](METHODOLOGY.md)、[来源目录](SOURCES.md)。
+- Open WebUI 更换 Embedding 模型后检索变差：[知识库重建与验证步骤](OPEN-WEBUI-EMBEDDING-MIGRATION.md)。
 
 ## 先比较解决的问题，而不是先排第一名
 
