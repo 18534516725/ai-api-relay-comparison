@@ -8,6 +8,8 @@
 
 ## 阅读路线
 
+- 想比较商品属性抽取的模型账单：[GLM 5.3 Flash 三家报价与验收](GLM-FLASH-CATALOG-EXTRACTION.md)。
+
 - 正在选服务：先看下面的平台总览与三个使用场景。
 - 已有工具但接不通：看协议验收表，以及[中文配置教程](https://github.com/18534516725/llm-api-setup-guides)。
 - 想比较账单：[离线费用计算器](https://github.com/18534516725/llm-api-cost-calculator)。
