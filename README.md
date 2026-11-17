@@ -8,6 +8,8 @@
 
 ## 阅读路线
 
+- 要用同一组知识库题核对 Qwen3.8 Flash 的引文和费用：[三家公开报价与验收工作表](QWEN-FLASH-KNOWLEDGE-BASE-CHECK.md)。
+
 - 想比较商品属性抽取的模型账单：[GLM 5.3 Flash 三家报价与验收](GLM-FLASH-CATALOG-EXTRACTION.md)。
 
 - 正在选服务：先看下面的平台总览与三个使用场景。
