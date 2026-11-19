@@ -8,6 +8,8 @@
 
 ## 阅读路线
 
+- 做界面翻译采购：[三家 GLM 报价与可执行的占位符验收用例](GLM-LOCALIZATION-ACCEPTANCE.md)。
+
 - 用 Git 变更写发布说明：[三家 GLM 接口报价和可重建的审稿用例](GLM-RELEASE-NOTES-CHECK.md)。
 
 - 要用同一组知识库题核对 Qwen3.8 Flash 的引文和费用：[三家公开报价与验收工作表](QWEN-FLASH-KNOWLEDGE-BASE-CHECK.md)。
