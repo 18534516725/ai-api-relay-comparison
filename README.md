@@ -8,6 +8,8 @@
 
 ## 阅读路线
 
+- 字幕校对如何选接口：[三家 Qwen 报价和时间轴回填测试](QWEN-SUBTITLE-EDITING.md)。
+
 - 做界面翻译采购：[三家 GLM 报价与可执行的占位符验收用例](GLM-LOCALIZATION-ACCEPTANCE.md)。
 
 - 用 Git 变更写发布说明：[三家 GLM 接口报价和可重建的审稿用例](GLM-RELEASE-NOTES-CHECK.md)。
