@@ -8,6 +8,8 @@
 
 ## 阅读路线
 
+- 周报写作如何选模型接口：[三家 GLM 报价与成功率反转测试](GLM-WEEKLY-RATE-CHECK.md)。
+
 - 字幕校对如何选接口：[三家 Qwen 报价和时间轴回填测试](QWEN-SUBTITLE-EDITING.md)。
 
 - 做界面翻译采购：[三家 GLM 报价与可执行的占位符验收用例](GLM-LOCALIZATION-ACCEPTANCE.md)。
