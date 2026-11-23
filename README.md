@@ -8,6 +8,8 @@
 
 ## 阅读路线
 
+- 导入助手如何选接口：[三家 GLM 报价和同名列验收题](GLM-CSV-COLUMN-MAPPING.md)。
+
 - 日程助手如何选接口：[三家 Qwen 报价与会议时间候选测试](QWEN-MEETING-TIME-CHECK.md)。
 
 - 周报写作如何选模型接口：[三家 GLM 报价与成功率反转测试](GLM-WEEKLY-RATE-CHECK.md)。
