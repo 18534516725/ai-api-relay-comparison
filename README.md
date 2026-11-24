@@ -8,6 +8,8 @@
 
 ## 阅读路线
 
+- 归档命名如何选接口：[三家 Qwen 报价与四份讲义验收题](QWEN-ARCHIVE-NAMING-CHECK.md)。
+
 - 导入助手如何选接口：[三家 GLM 报价和同名列验收题](GLM-CSV-COLUMN-MAPPING.md)。
 
 - 日程助手如何选接口：[三家 Qwen 报价与会议时间候选测试](QWEN-MEETING-TIME-CHECK.md)。
