@@ -8,6 +8,8 @@
 
 ## 阅读路线
 
+- 晨会请求如何做预算：[会员并发、模型目录和三家公开按量报价](MEMBERSHIP-BURST-BUDGET.md)。
+
 - 归档命名如何选接口：[三家 Qwen 报价与四份讲义验收题](QWEN-ARCHIVE-NAMING-CHECK.md)。
 
 - 导入助手如何选接口：[三家 GLM 报价和同名列验收题](GLM-CSV-COLUMN-MAPPING.md)。
