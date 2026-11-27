@@ -57,11 +57,11 @@ gpt-5.4 那一行更不能直接比折扣。它是另一个模型，输入 2.5�
 
 选站还要看这张表没有的东西。协议是否是目标客户端要的那种，分组是否包含要用的模型，缓存写入价是否另计，失败请求是否扣费，这些都要回到各家文档里核，不在这份标价比较里。
 
-价格以 2026-11-27 读取的公开页面为准，之后可能调整。我是 NexoToken 的维护者，文中平台数字来自当天公开目录，不是第三方体验。官方单价以 Anthropic 和 OpenAI 的官方定价页为原始来源；当天本机直连 Anthropic 定价页被地区限制拦截，改用 OpenRouter 公开模型接口核对，其定价页写明推理按供应商标价计费、不加价。
+价格以 2026-11-27 读取的公开页面为准，之后可能调整。我是 NexoToken 的维护者，文中平台数字来自当天公开目录，不是第三方体验。官方单价的原始来源是 Anthropic 官方 Sonnet 5.5 / Opus 5.5 更新说明页（明确 sonnet 缓存读取 $0.10/MTok、opus $0.20/MTok），当天本机直连被地区限制拦截，同日用 OpenRouter 公开模型接口交叉核对一致。官方金额以该说明页为准，不用平台折扣倍率倒推。
 
 ## 来源
 
 - NexoToken 公开模型目录：`https://www.nexotoken.net/api/models/config`，2026-11-27 读取，取 Claude·轻享版分组的 claude-sonnet-5-5。平台额度换算见站内说明，100 积分 = 1 美元额度。
 - OpenRouter 模型标价：`https://openrouter.ai/api/v1/models`，2026-11-27 读取，取 `anthropic/claude-sonnet-5.5` 与 `openai/gpt-5.4` 的 `pricing`。
 - OpenRouter 计费口径：`https://openrouter.ai/pricing`，写明推理按供应商标价计费、购入额度另收平台费。
-- Anthropic 官方定价页：`https://platform.claude.com/docs/en/about-claude/pricing`，当天本机访问被地区限制拦截，未直接核到原文。
+- Anthropic 官方 Sonnet 5.5 更新说明页：`https://platform.claude.com/docs/en/models/sonnet-5-5/whats-new-sonnet-5-5`，明确缓存读取 $0.10/MTok。当天本机访问被地区限制拦截，未直接抓到原文，数值以校对核对为准。
